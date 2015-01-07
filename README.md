@@ -11,4 +11,5 @@ This plugin supports Cordova apps run on iOS.
         cordova plugin add https://github.com/rkranjith/konotor-plugin.git --variable APP_ID="YOUR_APP_ID" --variable APP_KEY="YOUR_APP_KEY"
         
 2. Add this script tag to your index.html:
+
         <input id="KonotorMenu" type="button" value="Talk To Us" onclick="konotor.launchKonotorScreen();"></input>
