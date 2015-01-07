@@ -16,4 +16,5 @@ This plugin supports PhoneGap/Cordova apps run on iOS.
 
         
 2. Add this script tag to your index.html:
+
         <input id="KonotorMenu" type="button" value="Talk To Us" onclick="konotor.launchKonotorScreen();"></input>
